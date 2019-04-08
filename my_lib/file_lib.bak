@@ -1,0 +1,7 @@
+-- This is my library to hold package declration
+-- for homework 8
+
+Package homework_8 is
+	function (signal input1, input2 : in std_logic)
+	return  std_logic;
+wnd homework_8;
