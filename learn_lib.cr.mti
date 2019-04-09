@@ -22,6 +22,15 @@ Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 
 -- Loading package std_logic_1164
 -- Compiling package homework_8
 
+} {} {}} C:/Users/siddi/vlsi/project/package_decl.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/siddi/vlsi/project/package_decl.vhd
+Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
+-- Loading package STANDARD
+-- Loading package TEXTIO
+-- Loading package std_logic_1164
+-- Compiling package Network_Coding
+-- Compiling package body Network_Coding
+-- Loading package Network_Coding
+
 } {} {}} C:/Users/siddi/vlsi/homework/homework8_1/lib_file_body.vhd {1 {vcom -work work -2002 -explicit -stats=none C:/Users/siddi/vlsi/homework/homework8_1/lib_file_body.vhd
 Model Technology ModelSim PE Student Edition vcom 10.4a Compiler 2015.03 Apr  7 2015
 -- Loading package STANDARD
